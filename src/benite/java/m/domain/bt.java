@@ -10,5 +10,7 @@ package benite.java.m.domain;
  * @author mus132512
  */
 public class bt {
+    public static void main(String[] args){
     
+    }
 }
